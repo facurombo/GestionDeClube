@@ -1,0 +1,586 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|c:\\users\\facu\\desktop\\progra 3\\probable parcial\\programa rombola facundo - intento de listar todos\\gestiondeclubesform\\gestiondeclubesform\\listartodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\listartodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\listarentrenadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\listarentrenadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\listarentrenadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\listarentrenadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|c:\\users\\facu\\desktop\\progra 3\\probable parcial\\programa rombola facundo - intento de listar todos\\gestiondeclubesform\\gestiondeclubesform\\listartodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\listartodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\expulsarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\expulsarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\expulsarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\expulsarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\asociarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\asociarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\verjugadoresequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\verjugadoresequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\listarparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\listarparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\cjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\cjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\centrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\centrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\listarparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\listarparticipantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|c:\\users\\facu\\desktop\\progra 3\\probable parcial\\programa rombola facundo - intento de listar todos\\gestiondeclubesform\\gestiondeclubesform\\cconjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\cconjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\iparticipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\iparticipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\agregarentrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\agregarentrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\ccontroladortorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\ccontroladortorneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\asociarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\asociarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\agregarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\agregarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\agregarequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\agregarequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\datosdeprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\datosdeprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\cpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\cpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\cequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\cequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\agregarentrenador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\agregarentrenador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\verjugadoresequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\verjugadoresequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\agregarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\agregarjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\agregarequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\agregarequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\gestiondeclubesform\\agregarentrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}|Gestiondeclubesform\\Gestiondeclubesform.csproj|solutionrelative:gestiondeclubesform\\agregarentrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarTodos.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarTodos.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\ListarTodos.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarTodos.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\ListarTodos.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:16:43.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CJugador.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\CJugador.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CJugador.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\CJugador.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAxwCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:01:23.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CConjunto.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CConjunto.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\CConjunto.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CConjunto.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\CConjunto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:01:12.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListarParticipantes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarParticipantes.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\ListarParticipantes.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarParticipantes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestiondeclubesform\\ListarParticipantes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:29:00.399Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListarEntrenadores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarEntrenadores.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\ListarEntrenadores.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarEntrenadores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestiondeclubesform\\ListarEntrenadores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:34:03.242Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarEntrenadores.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarEntrenadores.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\ListarEntrenadores.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarEntrenadores.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\ListarEntrenadores.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:35:20.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CEntrenador.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CEntrenador.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\CEntrenador.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CEntrenador.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\CEntrenador.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAawB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:01:18.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarTodos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarTodos.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\ListarTodos.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarTodos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestiondeclubesform\\ListarTodos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:15:18.415Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CControladorTorneo.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CControladorTorneo.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\CControladorTorneo.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CControladorTorneo.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\CControladorTorneo.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAIA3wFMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:01:16.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AgregarEntrenador.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEntrenador.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\AgregarEntrenador.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEntrenador.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\AgregarEntrenador.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAIA5wD0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:32:35.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AsociarJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AsociarJugador.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\AsociarJugador.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AsociarJugador.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\AsociarJugador.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAlwFMAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:32:41.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AgregarJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarJugador.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\AgregarJugador.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarJugador.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\AgregarJugador.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAlwD8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:24:36.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AgregarEquipo.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEquipo.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\AgregarEquipo.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEquipo.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\AgregarEquipo.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAlwEUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:32:54.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatosDePrueba.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\DatosDePrueba.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\DatosDePrueba.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\DatosDePrueba.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\DatosDePrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:01:30.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CEquipo.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CEquipo.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\CEquipo.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CEquipo.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\CEquipo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:01:21.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CPersona.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CPersona.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\CPersona.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\CPersona.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\CPersona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:01:26.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IParticipante.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\IParticipante.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\IParticipante.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\IParticipante.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\IParticipante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:32:16.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AgregarEntrenador.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEntrenador.Designer.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\AgregarEntrenador.Designer.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEntrenador.Designer.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\AgregarEntrenador.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:15:18.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpulsarJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ExpulsarJugador.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\ExpulsarJugador.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ExpulsarJugador.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\ExpulsarJugador.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAxwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:11:23.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VerJugadoresEquipos.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\VerJugadoresEquipos.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\VerJugadoresEquipos.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\VerJugadoresEquipos.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\VerJugadoresEquipos.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwGIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:37:25.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpulsarJugador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ExpulsarJugador.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\ExpulsarJugador.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ExpulsarJugador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestiondeclubesform\\ExpulsarJugador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:07:50.284Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VerJugadoresEquipos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\VerJugadoresEquipos.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\VerJugadoresEquipos.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\VerJugadoresEquipos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestiondeclubesform\\VerJugadoresEquipos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:37:24.055Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Equipos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Equipos.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\Equipos.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Equipos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestiondeclubesform\\Equipos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:37:20.297Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListarParticipantes.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarParticipantes.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\ListarParticipantes.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\ListarParticipantes.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\ListarParticipantes.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA5wA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:32:07.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Program.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\Program.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Program.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:02:02.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Inicio.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestiondeclubesform\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:06:09.616Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AgregarJugador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarJugador.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\AgregarJugador.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - copia\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarJugador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Programa Rombola Facundo - copia\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarJugador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:00:57.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Inicio.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Inicio.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\Inicio.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAMwEIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:01:58.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AgregarEquipo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEquipo.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\AgregarEquipo.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - copia\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEquipo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Programa Rombola Facundo - copia\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEquipo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:32:53.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsociarJugador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AsociarJugador.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\AsociarJugador.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AsociarJugador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestiondeclubesform\\AsociarJugador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:32:39.711Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Equipos.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Equipos.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\Equipos.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Equipos.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\Equipos.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:36:15.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Ingreso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Ingreso.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\Ingreso.cs",
+              "ToolTip": "C:\\Users\\fermi\\OneDrive\\Escritorio\\asfasfas\\Gestiondeclubesform\\Gestiondeclubesform\\Ingreso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\fermi\\OneDrive\\Escritorio\\asfasfas\\Gestiondeclubesform\\Gestiondeclubesform\\Ingreso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:32:49.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Ingreso.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Ingreso.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\Ingreso.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\Ingreso.cs",
+              "RelativeToolTip": "Gestiondeclubesform\\Ingreso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:33:03.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AgregarEntrenador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - intento de listar todos\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEntrenador.cs",
+              "RelativeDocumentMoniker": "Gestiondeclubesform\\AgregarEntrenador.cs",
+              "ToolTip": "C:\\Users\\Facu\\Desktop\\progra 3\\PROBABLE PARCIAL\\Programa Rombola Facundo - copia\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEntrenador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Programa Rombola Facundo - copia\\Gestiondeclubesform\\Gestiondeclubesform\\AgregarEntrenador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:24:52.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

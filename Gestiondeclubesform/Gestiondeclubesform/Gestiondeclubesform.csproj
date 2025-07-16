@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F9434AB5-72AF-4E0D-8E9A-0783B5E34244}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Gestiondeclubesform</RootNamespace>
+    <AssemblyName>Gestiondeclubesform</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarEntrenador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarEntrenador.Designer.cs">
+      <DependentUpon>AgregarEntrenador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarEquipo.Designer.cs">
+      <DependentUpon>AgregarEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarJugador.Designer.cs">
+      <DependentUpon>AgregarJugador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsociarJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsociarJugador.Designer.cs">
+      <DependentUpon>AsociarJugador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CConjunto.cs" />
+    <Compile Include="CControladorTorneo.cs" />
+    <Compile Include="CEntrenador.cs" />
+    <Compile Include="CEquipo.cs" />
+    <Compile Include="CJugador.cs" />
+    <Compile Include="CPersona.cs" />
+    <Compile Include="DatosDePrueba.cs" />
+    <Compile Include="Equipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos.Designer.cs">
+      <DependentUpon>Equipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpulsarJugador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExpulsarJugador.Designer.cs">
+      <DependentUpon>ExpulsarJugador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListarTodos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarTodos.Designer.cs">
+      <DependentUpon>ListarTodos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingreso.Designer.cs">
+      <DependentUpon>Ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IParticipante.cs" />
+    <Compile Include="ListarEntrenadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarEntrenadores.Designer.cs">
+      <DependentUpon>ListarEntrenadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListarParticipantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarParticipantes.Designer.cs">
+      <DependentUpon>ListarParticipantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VerJugadoresEquipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerJugadoresEquipos.Designer.cs">
+      <DependentUpon>VerJugadoresEquipos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AgregarEntrenador.resx">
+      <DependentUpon>AgregarEntrenador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarEquipo.resx">
+      <DependentUpon>AgregarEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarJugador.resx">
+      <DependentUpon>AgregarJugador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsociarJugador.resx">
+      <DependentUpon>AsociarJugador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos.resx">
+      <DependentUpon>Equipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExpulsarJugador.resx">
+      <DependentUpon>ExpulsarJugador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarTodos.resx">
+      <DependentUpon>ListarTodos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingreso.resx">
+      <DependentUpon>Ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarEntrenadores.resx">
+      <DependentUpon>ListarEntrenadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarParticipantes.resx">
+      <DependentUpon>ListarParticipantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="VerJugadoresEquipos.resx">
+      <DependentUpon>VerJugadoresEquipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

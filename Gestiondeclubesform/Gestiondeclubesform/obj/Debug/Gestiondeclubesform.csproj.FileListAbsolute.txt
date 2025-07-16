@@ -1,0 +1,128 @@
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe.config
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.AssemblyReference.cache
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AsociarJugador.resources
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Equipos.resources
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarJugador.resources
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEntrenadores.resources
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEquipo.resources
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.VerJugadoresEquipos.resources
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Ingreso.resources
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Inicio.resources
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Properties.Resources.resources
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.GenerateResource.cache
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.pdb
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.pdb
+C:\Users\Facu\Desktop\progra 3\Parcial\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe.config
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe.config
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.pdb
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.AssemblyReference.cache
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe.config
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEntrenador.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEquipo.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarJugador.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AsociarJugador.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Equipos.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Ingreso.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Inicio.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Properties.Resources.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.VerJugadoresEquipos.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.GenerateResource.cache
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.CoreCompileInputs.cache
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.pdb
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ExpulsarJugador.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarEntrenadores.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarJugadores.resources
+C:\Users\fermi\OneDrive\Escritorio\asfasfas\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarParticipantes.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe.config
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.pdb
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.AssemblyReference.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe.config
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEntrenador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEquipo.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AsociarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Equipos.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ExpulsarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Ingreso.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Inicio.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarEntrenadores.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarJugadores.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarParticipantes.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Properties.Resources.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.VerJugadoresEquipos.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.GenerateResource.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.pdb
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.AssemblyReference.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe.config
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEntrenador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEquipo.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AsociarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Equipos.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ExpulsarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Ingreso.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Inicio.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarEntrenadores.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarJugadores.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarParticipantes.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Properties.Resources.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.VerJugadoresEquipos.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.GenerateResource.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.pdb
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe.config
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\PPP - copia con interface\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.pdb
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.AssemblyReference.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe.config
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEntrenador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEquipo.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AsociarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Equipos.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ExpulsarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Ingreso.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Inicio.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarEntrenadores.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarJugadores.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarParticipantes.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Properties.Resources.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.VerJugadoresEquipos.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.GenerateResource.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.pdb
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe.config
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - copia\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.pdb
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe.config
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.exe
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\bin\Debug\Gestiondeclubesform.pdb
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.AssemblyReference.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe.config
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEntrenador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarEquipo.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AgregarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.AsociarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Equipos.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ExpulsarJugador.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Ingreso.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Inicio.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarEntrenadores.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarParticipantes.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.Properties.Resources.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.VerJugadoresEquipos.resources
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.GenerateResource.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.exe
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.pdb
+C:\Users\Facu\Desktop\progra 3\PROBABLE PARCIAL\Programa Rombola Facundo - intento de listar todos\Gestiondeclubesform\Gestiondeclubesform\obj\Debug\Gestiondeclubesform.ListarTodos.resources
